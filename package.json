@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dmitry Palchuk",
 	"description": "A project to learn npm basics.",
+	"keywords": [ "npm", "package.json", "learn" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
