@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dmitry Palchuk",
 	"description": "A project to learn npm basics.",
+	"version": "1.0.0",
 	"license": "MIT",
 	"keywords": [ "npm", "package.json", "freecodecamp" ],
 	"dependencies": {
